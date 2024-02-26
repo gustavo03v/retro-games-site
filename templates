@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mini Games Collection</title>
+</head>
+<body>
+    <h1>Bem-vindo ao Mini Games Collection!</h1>
+    <p>Escolha um jogo:</p>
+    <ul>
+        <li><a href="/jogar/nintendo/1">Super Mario Bros (Nintendo)</a></li>
+        <li><a href="/jogar/gamecube/2">The Legend of Zelda: Wind Waker (GameCube)</a></li>
+        <li><a href="/jogar/playstation1/3">Crash Bandicoot (PlayStation 1)</a></li>
+        <!-- Adicione mais jogos conforme necessário -->
+        <li><a href="/jogar/nintendo/9">Sair</a></li>
+    </ul>
+</body>
+</html>
